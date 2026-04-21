@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="PCMWAVE.Audio.NETFFT.Tests/PCMWAVE.Audio.NETFFT.Tests.csproj" />
+  <Project Path="PCMWAVE.Audio.NETFFT/PCMWAVE.Audio.NETFFT.csproj" />
+  <Project Path="PCMWAVE.Audio.Visualizers/PCMWAVE.Audio.Visualizers.csproj">
+    <Platform Project="x64" />
+    <Deploy />
+  </Project>
+</Solution>
